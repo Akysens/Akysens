@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Akysens
+- 👀 I’m interested in Python and automation via code in general.
+- 🌱 I’m currently learning web development, both front-end and back-end
+- 💞️ I’m looking to collaborate on ???
